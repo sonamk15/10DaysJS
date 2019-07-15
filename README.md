@@ -1,5 +1,5 @@
-Js questions
-1. Hello word
+**Js questions**
+1. *Hello word*
 ![*hello word*](assets/HelloWord.png)
 "https://www.hackerrank.com/challenges/js10-hello-world/problem"
 
