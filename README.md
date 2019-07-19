@@ -18,3 +18,7 @@ https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem
 5. Regular Expression
 ![**looping**](assets/RegularExpress.png)
 https://www.hackerrank.com/challenges/js10-regexp-1/problem
+
+6. Try, Catch and Finally
+![**looping**](assets/TryCatchFinally.png)
+https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem
