@@ -22,3 +22,7 @@ https://www.hackerrank.com/challenges/js10-regexp-1/problem
 6. Try, Catch and Finally
 ![**looping**](assets/TryCatchFinally.png)
 https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem
+
+7. Functions
+![**looping**](assets/functions.png)
+https://www.hackerrank.com/challenges/js10-function/problem
